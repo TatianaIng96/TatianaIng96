@@ -1,6 +1,17 @@
 # 💫 About Me:
-<br>¡Hola! Soy Leidy Tatiana Cardona, una apasionada ingeniera electrónica de Colombia. Mi fascinación por la tecnología me llevó a explorar el mundo del desarrollo de software, donde descubrí mi amor por la creación de soluciones innovadoras.<br><br>Mi enfoque va más allá de simplemente escribir código; se trata de crear experiencias significativas y solucionar desafíos con elegancia. Con una sólida base en ingeniería electrónica y una mente curiosa, he incursionado exitosamente en el desarrollo de software utilizando diversos frameworks.<br><br>He trabajado con tecnologías modernas como React, Node.js, Next.js, Java Spring Boot y Ruby on Rails. Estoy emocionada por la oportunidad de aplicar mis habilidades y conocimientos en proyectos desafiantes y emocionantes.<br><br>Mi viaje en la programación está marcado por una sed constante de aprendizaje. Siempre estoy buscando nuevas oportunidades para expandir mis habilidades y abrazar tecnologías emergentes. Creo en la importancia de la colaboración y estoy ansiosa por contribuir a proyectos que no solo desafíen mi ingenio, sino que también tengan un impacto positivo en el mundo.<br><br>Si estás buscando a alguien dedicado, apasionado y con un enfoque fresco para unir fuerzas en tu equipo, ¡estaré encantada de ser parte de tu visión! ¡Vamos a construir algo increíble juntos!
+<br>¡Hola! Soy Leidy Tatiana Cardona
 
+Soy ingeniera electrónica de Colombia, apasionada por la tecnología y el desarrollo de software. Mi curiosidad y gusto por la resolución de problemas me llevaron a explorar el mundo de la programación, donde encontré una forma de crear soluciones eficientes, escalables y con impacto real.
+
+Mi enfoque va más allá de solo escribir código: busco diseñar experiencias bien estructuradas, optimizar procesos y enfrentar desafíos técnicos con criterio. Cuento con una sólida base en ingeniería electrónica y experiencia desarrollando aplicaciones con tecnologías modernas como React, Angular, Node.js, Next.js y Spring Boot, así como en el consumo y diseño de APIs REST, manejo de bases de datos relacionales y NoSQL, y control de versiones con Git y GitHub. 
+
+Estoy familiarizada con buenas prácticas de desarrollo, principios de código limpio, separación de responsabilidades y trabajo basado en requerimientos funcionales y técnicos.
+
+En mi flujo de trabajo utilizo herramientas de inteligencia artificial como apoyo al desarrollo, lo que me permite acelerar tareas repetitivas, analizar alternativas de solución y mejorar la productividad, manteniendo siempre un criterio técnico sólido, validación manual del código y responsabilidad sobre cada implementación.
+
+Cuento con habilidades en análisis de problemas, pensamiento lógico, depuración, optimización de código y trabajo colaborativo en equipos ágiles. Me adapto con facilidad a nuevos entornos, tecnologías y metodologías, y mantengo una mentalidad de aprendizaje continuo orientada a la mejora constante.
+
+Disfruto participar en proyectos desafiantes donde pueda aportar valor real, aprender de otros profesionales y construir soluciones que tengan impacto. Si buscas a alguien comprometida, proactiva y con una visión moderna del desarrollo de software, estaré encantada de sumar al equipo y crecer junto a nuevos retos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leidy-tatiana-cardona-lopez/) 
